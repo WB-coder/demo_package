@@ -1,0 +1,9 @@
+<library path="naiscorp_hardware_interface">
+  <class name="naiscorp_hardware_interface/NaiscorpRobotHardware"
+         type="naiscorp_robot::NaiscorpRobotHardware"
+         base_class_type="hardware_interface::SystemInterface">
+    <description>
+      ROS2 Control System interface for Naiscorp robot hardware.
+    </description>
+  </class>
+</library>
